@@ -1,0 +1,2 @@
+フォーマット文字列リテラル／非同期プログラミング機能など、Python 3.6で追加された新機能をザックリ理解しよう
+https://www.atmarkit.co.jp/ait/articles/1702/24/news031.html

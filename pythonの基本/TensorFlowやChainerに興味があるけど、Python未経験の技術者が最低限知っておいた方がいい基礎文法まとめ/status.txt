@@ -1,0 +1,2 @@
+TensorFlowやChainerに興味があるけど、Python未経験の技術者が最低限知っておいた方がいい基礎文法まとめ (2/6)
+https://www.atmarkit.co.jp/ait/articles/1610/28/news027_2.html
